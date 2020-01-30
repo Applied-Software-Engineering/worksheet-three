@@ -10,4 +10,4 @@ npm install -g learnyounode
 learnyounode
 ```
 
-There are a number of exercises and you try to complete all of them.
+There are a number of exercises and you should attempt all of them.
